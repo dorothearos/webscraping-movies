@@ -1,0 +1,8 @@
+__pycache__
+
+venv/
+
+movies-data/
+
+Movies.db
+25_Movies.db
